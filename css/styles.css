@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    
+}
+
+
+ul {
+    list-style: none;
+}
+li {
+    margin-bottom: 25px;
+}
+a {
+    font-weight: bold;
+    font-size: 22px;   
+}
